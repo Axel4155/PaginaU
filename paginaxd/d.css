@@ -1,0 +1,59 @@
+/*Mientras tanto*/
+.columna-w p {
+    font-size: 11px !important;
+}
+
+.icontec-5666 {
+    visibility: hidden;
+}
+.page-id-16951 .icontec-5666, .page-id-6032 .icontec-5666
+{
+    visibility: visible;
+}
+
+.page-id-16951 .icontec-5666, .postid-1446 .icontec-5666 {
+    visibility: visible;
+}
+
+.columna-w a {
+    text-decoration: none;
+}
+
+.labor-section img, .experto-img img{
+    border-radius: 25px;
+}
+
+.communtion-img-block img {
+    width: 80%;
+    margin: 75px 10% 0;
+    border-radius: 25px 25px 0 0;
+}
+
+.postid-18691 .communtion-img-block .information {
+    background: #617989;
+    width: 80%;
+    margin: -25px 10%;
+    position: relative;
+    z-index: 4;
+}
+
+ .boton-creditos {
+    margin-left: 30px;
+}
+
+ .communication-content {
+    margin: 0 0 10px 0;
+    padding-left: 35px;
+}
+ .communication-social {
+    width: 51%;
+    float: left;
+    padding-top: 33px;
+    padding-left: 30px;
+    max-width: 610px;
+}
+
+.information {
+    width: 80%;
+    margin: 0 10%;
+}    
